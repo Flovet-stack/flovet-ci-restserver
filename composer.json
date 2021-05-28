@@ -1,0 +1,13 @@
+{
+    "name": "flovet/flovet-ci-restserver",
+    "description": "a codeigniter restserver",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flovet",
+            "email": "lovetofloveto3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

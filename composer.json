@@ -6,6 +6,6 @@
         "name": "Flovet",
         "email": "lovetofloveto3@gmail.com"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }

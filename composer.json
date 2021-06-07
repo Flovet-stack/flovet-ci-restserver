@@ -1,12 +1,11 @@
 {
-    "name": "flovet/flovet-ci-restserver",
-    "description": "a codeigniter restserver from chriskacerguis/codeigniter-restserver",
-    "type": "library",
-    "license": "MIT",
-    "authors": [{
-        "name": "Flovet",
-        "email": "lovetofloveto3@gmail.com"
-    }],
-    "minimum-stability": "1.0",
+    "name": "factor/flovet-ci-restserver",
+    "authors": [
+        {
+            "name": "Flovet-stack",
+            "email": "flovetoloveto@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
     "require": {}
 }

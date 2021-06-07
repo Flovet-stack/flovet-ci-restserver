@@ -20,7 +20,7 @@ composer require composer require flovet/flovet-ci-restserver
 CodeIgniter Rest Server is available on [Packagist](https://packagist.org/packages/composer require flovet/flovet-ci-restserver) (using semantic versioning), and installation via composer is the recommended way to install Codeigniter Rest Server. Just add this line to your `composer.json` file:
 
 ```json
-"composer require flovet/flovet-ci-restserver": "^3.1"
+"composer require flovet/flovet-ci-restserver": "^1.0"
 ```
 
 or run
